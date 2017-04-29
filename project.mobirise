@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Jack Capstaff",
-    "currentPage": "Composer.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 28,
+    "uniqCompNum": 31,
     "versionPublish": "3.9.2",
     "favicon": "@PROJECT_PATH@/assets/images/dsc-0246-128x85-71.jpg",
     "noImageResize": "",
@@ -659,7 +659,7 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-j",
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
@@ -672,7 +672,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.9",
-            "overlayColor": "#b8312f",
+            "overlayColor": "#4c6972",
             "inverse": true,
             "showTitle": true,
             "showMeta": false,
@@ -731,7 +731,7 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-n",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
@@ -744,7 +744,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#b8312f",
+            "overlayColor": "#4c6972",
             "inverse": false,
             "showTitle": false,
             "showMeta": false,
@@ -778,7 +778,7 @@
           "title": "DRAG AND DROP WEBSITE BUILDER",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Jack has helped to enable musicians of all abilities, ages and styles from young learners of brass instruments and dance music production to people learning music theory in later life. There is no right or wrong time to start learning music and no point at which learning stops, so should you wish to talk with Jack, please contact him through the contact page.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
         }
       ]
     },
