@@ -100,6 +100,7 @@
 
 
 
+
 #dropdown-menu-4 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -145,6 +146,9 @@
 }
 #msg-box4-m .mbr-article {
   color: #ffffff;
+}
+#msg-box4-m .mbr-article P {
+  font-family: 'Oxygen', sans-serif;
 }
 
 

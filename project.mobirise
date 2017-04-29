@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jack Capstaff",
-    "currentPage": "index.html",
+    "currentPage": "Composer.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -452,7 +452,7 @@
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0071-2000x1333-77.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-20150219-133744-2000x1500-22.jpg",
             "bgColor": "#b8312f",
             "bgColorRadio": false,
             "bgVideo": {
@@ -460,8 +460,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#b8312f",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#424a5c",
             "inverse": false,
             "showTitle": true,
             "showMeta": false,
@@ -511,6 +511,10 @@
             },
             ".mbr-article": {
               "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
           },
           "_name": "msg-box4",
@@ -520,7 +524,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0071-2000x1333-88.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-0062-2000x1333-69.jpg",
             "bgColor": "#b8312f",
             "bgColorRadio": false,
             "bgVideo": {
@@ -528,8 +532,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#b8312f",
+            "overlayOpacity": "0.8",
+            "overlayColor": "#424a5c",
             "inverse": true,
             "showTitle": false,
             "showMeta": false,
