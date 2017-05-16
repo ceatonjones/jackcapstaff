@@ -33,6 +33,21 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            "P": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "font-size": "10px"
+            }
+          },
           "_anchor": "header4-0",
           "_params": {
             "parallax": true,
@@ -55,22 +70,7 @@
           },
           "title": "JACK CAPSTAFF",
           "text": "Conductor | Composer",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Bio.html\" data-toolbar=\"-mbrBtnMove\">Bio</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conductor</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Composer.html\" data-toolbar=\"-mbrBtnMove\">Composer</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tuition</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Calender.html\" data-toolbar=\"-mbrBtnMove\">Calender</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>",
-          "_styles": {
-            "H1": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            "P": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            },
-            ".btn": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "10px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"Bio.html\" data-toolbar=\"-mbrBtnMove\">Bio</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Conductor</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Composer.html\" data-toolbar=\"-mbrBtnMove\">Composer</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Tuition</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Calender.html\" data-toolbar=\"-mbrBtnMove\">Calender</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"Contact.html\" data-toolbar=\"-mbrBtnMove\">CONTACT</a>"
         }
       ]
     },
@@ -282,6 +282,20 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#434343",
+              "text-align": "right"
+            },
+            "P": {
+              "color": "#434343",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "right"
+            }
+          },
           "_anchor": "header1-p",
           "_params": {
             "parallax": true,
@@ -304,21 +318,7 @@
           },
           "title": "Conducting",
           "text": "<br>Jack currently holds two residencies; he is the Music Director for the South Yorkshire Police Band, a brass band based in Rotherham and also the Harlequin Brass Ensemble, a ten piece brass ensemble based in Hoyland, Barnsley.<br><br>Jack has a wide experience of conducting; from classical repertoire with orchestras, brass bands and choirs, to repeteuring for jazz ensembles as well as much experience in the performance and interpretation of contemporary western classical music with a large variety of ensembles.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_styles": {
-            "H1": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "color": "#434343",
-              "text-align": "right"
-            },
-            "P": {
-              "color": "#434343",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_inherit": "header1",
@@ -327,6 +327,13 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header4",
+          "_styles": {
+            "P": {
+              "color": "#434343",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          },
           "_anchor": "header4-r",
           "_params": {
             "parallax": true,
@@ -349,14 +356,7 @@
           },
           "title": "MOBIRISE WEBSITE BUILDER",
           "text": "Jack is keen to take on any challenge in order to keep learning as he looks to conduct and rehearse a variety of styles of music and from there learn more about the interpretation of working of different genres. <br><br>He believes that there is always more to learn and hopes to continue encouraging the collaboration of different walks of music.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
-          "_styles": {
-            "P": {
-              "color": "#434343",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>"
         }
       ]
     },
@@ -965,18 +965,18 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-9",
-          "title": "<span style=\"color: inherit; line-height: 1.5em;\">MAY 2017</span><br>",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "<br><br>",
           "_styles": {
             "H3": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
-          }
+          },
+          "_anchor": "header3-9",
+          "title": "<span style=\"color: inherit; line-height: 1.5em;\">MAY 2017</span><br>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "<br><br>"
         },
         {
           "_styles": {
@@ -1030,18 +1030,18 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-b",
-          "title": "JUNE 2017",
-          "_params": {
-            "showMeta": false
-          },
-          "meta": "",
           "_styles": {
             "H3": {
               "font-family": "'Oxygen', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             }
-          }
+          },
+          "_anchor": "header3-b",
+          "title": "JUNE 2017",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
         },
         {
           "_styles": {
