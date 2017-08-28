@@ -10,10 +10,11 @@
     "versionFirst": "3.9.2",
     "uniqCompNum": 31,
     "versionPublish": "3.9.2",
-    "favicon": "@PROJECT_PATH@/assets/images/dsc-0246-128x85-71.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/beat-pattern-design-2-128x91-84.jpg",
     "noImageResize": "",
     "cookiesAlert": "",
-    "publishType": "github"
+    "publishType": "github",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
