@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jack ",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2482,25 +2482,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/sypb-contest-2000x1000.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Sunday 25th February",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Regional Championships Test Piece Preview Night - <b>Fairway Pub, Barnsley</b><br><br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://www.facebook.com/events/259252181270556/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Event Details</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.facebook.com/pg/sypbb/events/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SYPB Events</a>",
-                "overlayOpacity": "0.7"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/huddersfield-town-halll-2000x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/safe-image-476x248.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -2510,11 +2492,28 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Saturday 3rd March",
+                "title": "Sunday 13th May",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Big Sing Event - <b>Tudor Square</b>,&nbsp;<b>Sheffield</b><br><br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-primary\" href=\"https://www.sheffieldmusichub.org/events/the-primary-school-singing-support-pack-big-sing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Event Details</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/diadem-of-gold-picture-5385x3590.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "Saturday 12th May",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Yorkshire Regional Championships  -&nbsp;<b>Huddersfield Town Hall</b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"http://www.regional-contest.org.uk/yorkshire/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Event Details</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.facebook.com/pg/sypbb/events/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SYPB Events</a>",
+                "text": "Spring Festival &nbsp;-&nbsp;<b>Winter Gardens, Blackpool</b>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"http://www.thebritishopen.net/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Event Details</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.facebook.com/pg/yorkshireimperialband/events/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Yorkshire Imps Events</a>",
                 "overlayOpacity": "0.6"
               },
               {
@@ -2532,25 +2531,7 @@
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Atmospheres Symphony Orchestra Concert - <b>Dora Stoutzker Hall, Cardiff</b>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.rwcmd.ac.uk/whats_on/all_events.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RWCMD Events</a>"
-              },
-              {
-                "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=flzaXGn0c6k&feature=youtu.be",
-                "customStyle1": "display-1",
-                "customStyle2": "display-5",
-                "customStyle3": "display-4",
-                "title": "Sunday 4th February",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "SYPB Concert - <b>Niagra Club, Sheffiel</b>d",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.facebook.com/pg/sypbb/events/?ref=page_internal\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SYPB Events</a>",
-                "overlayOpacity": "0"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" href=\"https://www.rwcmd.ac.uk/whats_on/events/where_words_fail.aspx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">RWCMD Events</a>"
               }
             ]
           }
