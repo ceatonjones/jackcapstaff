@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jack ",
-    "currentPage": "page12.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6953,7 +6953,7 @@
         }
       ]
     },
-    "page12.html": {
+    "nabbc.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "NABBC",
