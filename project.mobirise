@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jack ",
-    "currentPage": "page9.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -5789,7 +5789,7 @@
         }
       ]
     },
-    "page9.html": {
+    "springfestivalresult.html": {
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "Spring Festival Result",
