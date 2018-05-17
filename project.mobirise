@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jack ",
-    "currentPage": "index.html",
+    "currentPage": "springfestivalresult.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -6302,7 +6302,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Looking forward, the band will be attending Bolsover entertainments contest and the Scottish Open later this year as well as performing in many concerts and events. Keep an eye on the calendar to see what Jack and the band are up to.</p><p><a href=\"news.html\">Back to News</a></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Looking forward, the band will be attending Bolsover entertainments contest and the Scottish Open later this year as well as performing in many concerts and events. Keep an eye on the calendar to see what Jack and the band are up to.</p><p>Find out more about Yorskshire Imps on their website <a href=\"https://yorkshireimps.co.uk/\" target=\"_blank\">Yorkshireimps.co.uk</a>&nbsp;or visit them on <a href=\"https://www.facebook.com/yorkshireimperialband/\" target=\"_blank\">Facebook.</a></p><p><a href=\"news.html\">Back to News</a></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qSjcXkv345",
           "_protectedParams": [],
           "_global": false,
