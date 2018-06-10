@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jack ",
-    "currentPage": "news.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -50,7 +50,7 @@
   "pages": {
     "conductor.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "",
         "title": "Conductor",
         "order": 11
       },
@@ -637,7 +637,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "",
         "title": "Contact",
         "order": 10
       },
@@ -1229,7 +1229,7 @@
     },
     "composer.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
+        "meta_descr": "",
         "title": "Composer",
         "order": 12
       },
@@ -1809,7 +1809,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Jack Capstaff; Conductor and Composer.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -3424,7 +3424,7 @@
     },
     "yorkshireimps.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "",
         "title": "Yorkshire Imps",
         "order": 3
       },
@@ -4066,7 +4066,7 @@
     },
     "2018brassbandseason.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "",
         "title": "2018 Brass Band Season",
         "order": 8
       },
@@ -4626,7 +4626,7 @@
     },
     "bio.html": {
       "settings": {
-        "meta_descr": "Website Maker Description",
+        "meta_descr": "",
         "title": "Bio",
         "order": 9
       },
@@ -5274,7 +5274,7 @@
     },
     "YorkshireImpsMD.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "",
         "title": "Yorkshire Imps MD Position Official",
         "order": 7
       },
@@ -5883,7 +5883,7 @@
     },
     "springfestivalresult.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "",
         "title": "Spring Festival Result",
         "order": 5
       },
