@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Jack ",
-    "currentPage": "index.html",
+    "currentPage": "page13.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -8772,7 +8772,7 @@
           },
           "_name": "content2",
           "_sourceTheme": "mobirise4",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article data-app-selector=\".mbr-text, blockquote\">\n                <blockquote><p><b>Music De Los Muertos Hits the Right Note</b></p><p>Having presented Musica De Los Muertos at both Bolsover Entertainments Contest, and Wychavon Festival of Brass Entertainments Contest; Derwent secured the title of \"most entertaining band\" at both competitions with the brand new set of Big Band inspired editions of western classical music.</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article data-app-selector=\".mbr-text, blockquote\">\n                <blockquote><p><b>Music De Los Muertos Hits the Right Note</b></p><p>Having presented Musica De Los Muertos at both Bolsover Entertainments Contest, and Wychavon Festival of Brass Entertainments Contest; Derwent secured the title of \"most entertaining band\" at both competitions with the brand new set of Big Band inspired editions of western classical music.</p><p>“Thank you, Jack and the band, for bringing a performance so fresh and creative to the contest. The writing is outstanding… a super tough programme. This was very good indeed!”</p><p><span style=\"font-size: 1.09rem;\">- Chris King</span></p><p>\"Wow wow wow wow wow. I loved it from start to finish. So original, entertaining, cool, unique, soloists galore, and a percussion dream. Congratulations - you blew me away\". - John Doyle</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sOb1JVPIyu",
           "_anchor": "content2-3h",
           "_protectedParams": [],
